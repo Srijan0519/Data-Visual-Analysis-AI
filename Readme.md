@@ -2,6 +2,9 @@
 
 A Streamlit application that combines data visualization with AI-powered plot suggestions using the FLAN-T5 model.
 
+## Screenshots
+![UI](https://github.com/Srijan0519/Data-Visual-Analysis-AI/blob/main/plot%20analyzer%20screenshots/UI.jpg)
+
 ## Features
 - CSV file upload and analysis
 - AI-generated plot suggestions
